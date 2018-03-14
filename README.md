@@ -7,7 +7,7 @@
     **_git add ._**
 
 3. If you want to add all file except one single file:<br><br>
-   **_git add -u_**
+   **_git add -u_**<br><br>
    **_git reset -- main/filename_**
 
 4.	Push your branch to the remote repository:<br><br>
