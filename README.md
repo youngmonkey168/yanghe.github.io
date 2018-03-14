@@ -1,7 +1,7 @@
 # Most Frequent Daily Git Commands
 
 1.	Create a new branch:<br><br>
-**_git checkout -b feature_branch_name_**
+<space>**_git checkout -b feature_branch_name_**
 
 2.	Edit, add and commit your files:<br><br>
 **_git add ._**
