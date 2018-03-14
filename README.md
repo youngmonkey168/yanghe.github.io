@@ -7,7 +7,6 @@
 **_git add ._**
 
 3. If you want to add all file except one single file.
-
 **_git add -u_**
 **_git reset -- main/filename_**
 
