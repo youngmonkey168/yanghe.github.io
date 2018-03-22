@@ -20,3 +20,5 @@
 6.	Delete a remote branch:<br><br>
     **_git push origin –-delete feature_branch_name_**
 
+7.	Update local master with remote master branch:<br><br>
+    **_git pull origin master_**
